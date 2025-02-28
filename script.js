@@ -19,9 +19,9 @@ class Square extends Rectangle {
 	}
 }
 
-let rect = new Rectangle(10,20);
-console.log(rect.getArea());
-console.log(rect.width);
+// let rect = new Rectangle(10,20);
+// console.log(rect.getArea());
+// console.log(rect.width);
 
 // let sqr = new Square(10);
 // console.log(sqr.getPerimeter())
